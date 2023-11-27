@@ -16,3 +16,8 @@ Then, when you make a change in the code, have to add the changes to a waiting s
 Finally use push to upload the new code to github.
 
     git push
+
+Can check the status of the workflow with status and log to see the logs.
+
+    git status
+    git log
