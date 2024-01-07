@@ -21,3 +21,22 @@ Can check the status of the workflow with status and log to see the logs.
 
     git status
     git log
+
+Create a new branch
+    
+    git checkout -b branch-name
+
+To push to repo
+
+    git push origin branch-name
+
+To check on what branch do you are
+
+    git branch
+
+To move 
+
+    git checkout branch-name
+
+
+
