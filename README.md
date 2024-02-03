@@ -38,5 +38,7 @@ To move
 
     git checkout branch-name
 
+To complete an exercise, you'll need to go to the exercise directory with cd exerciseName in the terminal and run npm test exerciseName.spec.js
+
 
 
